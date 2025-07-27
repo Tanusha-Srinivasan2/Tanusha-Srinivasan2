@@ -148,7 +148,7 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
     <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" alt="Gmail" />
   </a> 
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/tanusha-srinivasan-b26818376" target="_blank">
+  <a href="https://www.linkedin.com/in/tanusha-srinivasan-b26818376" target="_blank">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
   </a> 
 </p>
