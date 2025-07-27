@@ -39,21 +39,80 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
+<h2 align="center">🚀 My Projects</h2>
+
+<h3 align="center">🛰️ Asteroid Alerting and Notification System</h3>
 <div align="center">
-  <h3>🚀 Top Repositories</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/Tanusha-Srinivasan2/AsteroidAlert">
-        <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=AsteroidAlert&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-    <a href="https://github.com/Tanusha-Srinivasan2/RouteCraft">
-        <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=RouteCraft&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-    <a href="https://github.com/Tanusha-Srinivasan2/Opal">
-        <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=Opal&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-  </div>
+  <a href="https://github.com/Tanusha-Srinivasan2/AsteroidAlert">
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=AsteroidAlert&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+  </a>
 </div>
-<br/>
+<h4>Key Features:</h4>
+<ul>
+  <li>
+    Built a microservices system to process large volumes of NASA asteroid data.
+  </li>
+  <li>
+    Utilized Kafka for event-driven, asynchronous communication and reliable message delivery.
+  </li>
+  <li>
+    Integrated PKCE security with Google Identity Services for cryptographic protection against interception attacks.
+  </li>
+  <li>
+    Implemented automated task scheduling for periodic data fetching from the NASA API.
+  </li>
+  <li>
+    Developed a comprehensive unit testing suite using JUnit 5 and Mockito, following TDD principles.
+  </li>
+</ul>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<h3 align="center">🚚 Delivery Route Optimization Platform</h3>
+<div align="center">
+  <a href="https://github.com/Tanusha-Srinivasan2/RouteCraft">
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=RouteCraft&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+  </a>
+</div>
+<h4>Key Features:</h4>
+<ul>
+  <li>
+    Calculates optimal delivery routes to solve the Travelling Salesman Problem using computational algorithms and Open RouteService APIs.
+  </li>
+  <li>
+    Features an interactive mapping interface built with Leaflet for real-time data visualization.
+  </li>
+  <li>
+    Implemented a complete user authentication system with secure signup/login flows using Supabase.
+  </li>
+  <li>
+    Designed with a responsive interface using Tailwind CSS.
+  </li>
+</ul>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<h3 align="center">📦 Containerised Online Sales Platform</h3>
+<div align="center">
+  <a href="https://github.com/Tanusha-Srinivasan2/Opal">
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=Opal&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+  </a>
+</div>
+<h4>Key Features:</h4>
+<ul>
+  <li>
+    A full-stack e-commerce platform fully containerized with Docker Compose and Nginx.
+  </li>
+  <li>
+    Enables efficient and consistent single-command deployment for production environments.
+  </li>
+  <li>
+    Features RESTful APIs developed in Spring Boot on embedded Apache Tomcat servers.
+  </li>
+  <li>
+    Includes a responsive React frontend with dynamic product management, image uploads, and category-based filtering.
+  </li>
+</ul>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
@@ -108,6 +167,13 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
   </a> 
 </p>
 <br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=E84393&center=true&vCenter=true&width=800&height=100&lines=I+would+love+to+change+the+world...;...but+they+wont+give+me+the+source+code"
+    alt="I would love to change the world but they wont give me the source code"
+  />
+</div>
 
 <div align="center">
   <img 
