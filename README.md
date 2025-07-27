@@ -9,7 +9,7 @@
   Hi there, I'm Tanusha Srinivasan 👋
 </h1>
 
-<img align="right" alt="I can fix the world but they won't give me the source code" width="400" src="https://github.com/Tanusha-Srinivasan2/Tanusha-Srinivasan2/blob/main/Screenshot%202025-07-27%20112259.png?raw=true">
+<img align="right" alt="A girl coding on her laptop" width="400" src="https://github.com/Tanusha-Srinivasan2/Tanusha-Srinivasan2/blob/main/coding.gif?raw=true">
 
 I'm a passionate Information Technology undergraduate from SSN College of Engineering with a strong foundation in full-stack development. I enjoy building scalable and efficient applications by creating robust microservices, optimizing complex problems, and delivering seamless user experiences.
 
