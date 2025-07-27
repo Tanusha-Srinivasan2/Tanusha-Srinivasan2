@@ -26,6 +26,10 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
   <li>
     ⚡ I have a strong foundation in Data Structures and Algorithms, which I've applied to solve complex challenges like the Travelling Salesman Problem.
   </li>
+  <li>
+    🎨 Beyond coding, I'm passionate about digital art, including graphic design, logo design and 3D animation with Blender.
+  </li>
+
 </ul>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -136,25 +140,7 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-<h3 align="center">📊 My GitHub Stats</h3>
-<br>
-<div align="center">
-  <a href="https://github.com/Tanusha-Srinivasan2" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Tanusha-Srinivasan2&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" />
-  </a>
-  <a href="https://github.com/Tanusha-Srinivasan2?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Tanusha-Srinivasan2?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
-  </a>
-  <a href="https://github.com/Tanusha-Srinivasan2?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Tanusha-Srinivasan2?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-  </a>
-  <br><br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanusha-Srinivasan2&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanusha-Srinivasan2&theme=nord&hide_border=false&border_radius=8" alt="GitHub Streak Stats" /><br/>
-</div>
-<br/><br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <h3 align="center">🧲 Connect with me</h3>
 <p align="center">
@@ -162,7 +148,7 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
     <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" alt="Gmail" />
   </a> 
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tanusha-srinivasan" target="_blank">
+  <a href="www.linkedin.com/in/tanusha-srinivasan-b26818376" target="_blank">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
   </a> 
 </p>
