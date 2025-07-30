@@ -1,13 +1,14 @@
 <div align="center">
-  <img 
-    width="100%" 
+  <img
+    width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=E84393&height=150&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    alt="Header Banner"
   />
 </div>
 
-<h1 align="center">
-  Hi there, I'm Tanusha Srinivasan 👋
-</h1>
+<div align="center">
+  <h1 align="center">Hi there, I'm Tanusha Srinivasan 👋</h1>
+</div>
 
 <img align="right" alt="A girl coding on her laptop" width="400" src="https://github.com/Tanusha-Srinivasan2/Tanusha-Srinivasan2/blob/main/coding.gif?raw=true">
 
@@ -29,26 +30,25 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
   <li>
     🎨 Beyond coding, I'm passionate about digital art, including graphic design, logo design and 3D animation with Blender.
   </li>
-
 </ul>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
 
-<h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,react,flask,tailwind,docker,kafka,mysql,nginx" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,postman,linux,tomcat,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,react,flask,tailwind,docker,kafka,mysql,nginx" alt="Tech Stack Part 1"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,postman,linux,tomcat,vite" alt="Tech Stack Part 2"/><br>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
 
 <h2 align="center">🚀 My Projects</h2>
 
 <h3 align="center">🛰️ Asteroid Alerting and Notification System</h3>
 <div align="center">
   <a href="https://github.com/Tanusha-Srinivasan2/AsteroidAlert">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=AsteroidAlert&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=AsteroidAlert&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440&hide_description=true" alt="Asteroid Alert Project Pin"/>
   </a>
 </div>
 <h4>Key Features:</h4>
@@ -70,12 +70,12 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
   </li>
 </ul>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
 
 <h3 align="center">🚚 Delivery Route Optimization Platform</h3>
 <div align="center">
   <a href="https://github.com/Tanusha-Srinivasan2/RouteCraft">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=RouteCraft&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=RouteCraft&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440&hide_description=true" alt="RouteCraft Project Pin"/>
   </a>
 </div>
 <h4>Key Features:</h4>
@@ -94,12 +94,12 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
   </li>
 </ul>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
 
 <h3 align="center">📦 Containerised Online Sales Platform</h3>
 <div align="center">
   <a href="https://github.com/Tanusha-Srinivasan2/Opal">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=Opal&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanusha-Srinivasan2&repo=Opal&theme=tokyonight&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440&hide_description=true" alt="Opal Project Pin"/>
   </a>
 </div>
 <h4>Key Features:</h4>
@@ -118,7 +118,7 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
   </li>
 </ul>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
 
 <h3 align="center">💻 My Tech Stack</h3>
 <br/>
@@ -138,19 +138,17 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
 
 <h3 align="center">🧲 Connect with me</h3>
 <p align="center">
   <a href="mailto:tanusha2310133@ssn.edu.in" target="_blank">
-    <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" alt="Gmail" />
-  </a> 
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" />
+  </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tanusha-srinivasan-b26818376" target="_blank">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
-  </a> 
+  </a>
 </p>
 <br>
 
@@ -162,8 +160,9 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
 </div>
 
 <div align="center">
-  <img 
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&color=E84393&height=150&section=footer&animation=twinkling"
-    width="100%" 
+    width="100%"
+    alt="Footer Banner"
   />
 </div>
