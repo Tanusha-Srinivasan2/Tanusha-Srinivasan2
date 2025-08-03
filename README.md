@@ -28,7 +28,7 @@ I'm a passionate Information Technology undergraduate from SSN College of Engine
     ⚡ I have a strong foundation in Data Structures and Algorithms, which I've applied to solve complex challenges like the Travelling Salesman Problem.
   </li>
   <li>
-    🎨 Beyond coding, I'm passionate about digital art, including graphic design, logo design and 3D animation with Blender.
+    🎨 Beyond coding, I'm passionate about digital art, including graphic design, logo design and 3D animation and modeling with Blender.
   </li>
 </ul>
 
